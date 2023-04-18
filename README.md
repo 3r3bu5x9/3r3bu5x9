@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Debasis
 
 <!--
 **3r3bu5x9/3r3bu5x9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Stats-->
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=3r3bu5x9&show_icons=true&locale=en&layout=compact" alt="3r3bu5x9" /></p>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=3r3bu5x9&show_icons=true&locale=en" alt="3r3bu5x9" /></p>
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3r3bu5x9&" alt="3r3bu5x9" /></p>
